@@ -13,10 +13,15 @@ With the increasing awareness of health and the growing desire for aesthetic phy
 ### Key Words
 action quality assessment, fitness, action understanding, video understanding
 
-### Dataset
+### Dataset Access Procedure
 ```
-Coming soon~
+This dataset is not publicly downloadable. To request access:
+1. Complete the dataset request form linked below.
+2. Confirm that you agree to the terms of use (academic purposes only, no commercial exploitation).
+3. After your request is reviewed and approved, you will receive instructions to access the dataset.
 ```
+[➡️ Access Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdVWgFO3XSlkvKnaLIEaCkedJ-QDb4wclVgE2LhLQ4nGPBmRQ/viewform?usp=dialog)
+
 
 ### Experiment Code
 
