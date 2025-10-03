@@ -13,6 +13,9 @@ With the increasing awareness of health and the growing desire for aesthetic phy
 ### Key Words
 action quality assessment, fitness, action understanding, video understanding
 
+### NeurIPS Review Results
+We sincerely thank the NeurIPS reviewers for their hard work and valuable feedback. FLEX received positive and competitive evaluations during the review process (Rating: 5,5,5,4), but was not ultimately accepted due to the conference’s overall arrangements.
+
 ### Dataset Access Procedure
 ```
 This dataset is not publicly downloadable. To request access:
