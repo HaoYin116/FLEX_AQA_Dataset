@@ -1,4 +1,4 @@
-# <p align="center">FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment</p>
+# <p align="center">FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment</p>
 
 ### <p align="center">*Hao Yin, Lijun Gu, Paritosh Parmar, Lin Xu, Tianxiao Guo, Weiwei Fu, Yang Zhang, Tianyou Zheng*</p>
 
