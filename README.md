@@ -59,7 +59,7 @@ Please feel free to reach out to me if you have any questions or face any proble
 If you find our work useful, please consider citing:
 ```
 @article{yin2025flex,
-      title={FLEX: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment}, 
+      title={FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment}, 
       author={Hao Yin, Lijun Gu, Paritosh Parmar, Lin Xu, Tianxiao Guo, Weiwei Fu, Yang Zhang, Tianyou Zheng},
       journal={arXiv preprint arXiv:2506.03198},
       year={2025},
