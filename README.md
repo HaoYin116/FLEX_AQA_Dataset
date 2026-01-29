@@ -13,9 +13,6 @@ Action Quality Assessment (AQA)—the task of quantifying how well an action is 
 ### Key Words
 action quality assessment, fitness, action understanding, video understanding
 
-### NeurIPS Review Results
-We sincerely thank the NeurIPS reviewers for their hard work and valuable feedback. FLEX received positive and competitive evaluations during the review process (Rating: 5,5,5,4 on a 6-point scale), but was not ultimately accepted due to the conference’s overall arrangements.
-
 ### Dataset Access Procedure
 ```
 This dataset is not publicly downloadable. To request access:
